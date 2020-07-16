@@ -1,18 +1,33 @@
 # MONOCLE LOW COST SENSOR SUPPORT PACKAGE
 D2.5 Support package for MONOCLE Low Cost Sensors (readme)
 
+## Introduction
 
 
 
 ## SPECTACLE / iSPEX
 
+### General description
+
+### Repositories
+
+iSPEX 2 repository (Python)
+https://github.com/burggraaff/ispex2
+
+
+SPECTACLE Repository (Python)
+https://github.com/monocle-h2020/camera_calibration
+
+SPECTACLE App
+IOS
+
+Android
+
+SPECTACLE/iSPEX Back end
+
+
 ### Support scripts 
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
 
 ## KDUINO/KSTICK
 
@@ -31,9 +46,6 @@ foobar.singularize('phenomena') # returns 'phenomenon'
 
 ## FRESH WATER WATCH
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
