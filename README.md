@@ -45,6 +45,10 @@ https://github.com/monocle-h2020/spectacle_db
 
 ## KDUINO/KSTICK
 
+
+
+
+
 - KduPro code
 https://github.com/Carlos-Rodero/KdUINO_Feather?organization=Carlos-Rodero&organization=Carlos-Rodero
 
@@ -56,14 +60,18 @@ https://git.csic.es/36579996Z/kduino-data-analysis
 
 https://www.dji.com/nl/ground-station-pro
 
-Sitemark created guidelines the correctly use the DJI GSPro drone pilot app for data collection over water. This app works on ios systems. The flight guidelines are included in attachment.  
-To support drone pilots in their flight mission planning, they also created a website (called MONOLCE Flight Planner) to help define coordinates for the drone to hover in order to capture a certain buoy and in function of the position of the sun.
+Sitemark created guidelines the correctly use the DJI GSPro drone pilot app for data collection over water. This app works on ios systems. The flight guidelines are referenced here: 
+To support drone pilots in their flight mission planning, Sitemark  created a website (called MONOCLE Flight Planner) to help define coordinates for the drone to hover in order to capture a certain buoy and in function of the position of the sun.
 
 https://sm-projects-monocle.azurewebsites.net/
 
 
 
 ## FRESH WATER WATCH
+
+
+
+
 FWW methods URL :https://freshwaterwatch.thewaterhub.org/content/your-test-kit
 FWW methods document: https://freshwaterwatch.thewaterhub.org/sites/default/files/fww-methods-manual.pdf
  
@@ -76,3 +84,6 @@ FWW data upload instructions: https://freshwaterwatch.thewaterhub.org/content/up
 FWW Geoserver URL for earthwatch is: https://geo.earthwatch.org.uk/
 
 
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
