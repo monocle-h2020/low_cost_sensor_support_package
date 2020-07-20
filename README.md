@@ -34,7 +34,7 @@ https://github.com/monocle-h2020/spectacle_android
 
 
 ###
-Mobile back end. Used for storage, metadata, push notifications, offline syn.
+Mobile back end. Used for storage, metadata, push notifications, offline sync.
 
 SPECTACLE/iSPEX Back end database dump
 https://github.com/monocle-h2020/spectacle_db
@@ -60,7 +60,7 @@ https://git.csic.es/36579996Z/kduino-data-analysis
 
 https://www.dji.com/nl/ground-station-pro
 
-Sitemark created guidelines the correctly use the DJI GSPro drone pilot app for data collection over water. This app works on ios systems. The flight guidelines are referenced here: 
+Sitemark created guidelines the correctly use the DJI GSPro drone pilot app for data collection over water. This app works on ios systems. The flight guidelines are referenced here: https://github.com/monocle-h2020/low_cost_sensor_support_package/blob/master/Monocle%20Flight%20Guidelinesv12020704_update.pdf
 To support drone pilots in their flight mission planning, Sitemark  created a website (called MONOCLE Flight Planner) to help define coordinates for the drone to hover in order to capture a certain buoy and in function of the position of the sun.
 
 https://sm-projects-monocle.azurewebsites.net/
