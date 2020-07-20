@@ -10,22 +10,33 @@ D2.5 Support package for MONOCLE Low Cost Sensors (readme)
 ### General description
 
 ### Repositories
-
 iSPEX 2 repository (Python)
 https://github.com/burggraaff/ispex2
+
+### Description 
+Data reduction scripts in python, takes raw image and metadata from SPECTACLE app/DB.
 
 
 SPECTACLE Repository (Python)
 https://github.com/monocle-h2020/camera_calibration
 
 SPECTACLE App
+Decription
+iOS and Android calibration apps (xcode and android studio development resources). 
+
+
+
 IOS
 https://github.com/monocle-h2020/spectacle_ios
 
 Android
 https://github.com/monocle-h2020/spectacle_android
 
-SPECTACLE/iSPEX Back end
+
+###
+Mobile back end. Used for storage, metadata, push notifications, offline syn.
+
+SPECTACLE/iSPEX Back end database dump
 https://github.com/monocle-h2020/spectacle_db
 
 
@@ -53,7 +64,15 @@ https://sm-projects-monocle.azurewebsites.net/
 
 
 ## FRESH WATER WATCH
+FWW methods URL :https://freshwaterwatch.thewaterhub.org/content/your-test-kit
+FWW methods document: https://freshwaterwatch.thewaterhub.org/sites/default/files/fww-methods-manual.pdf
+ 
+FWW health and safety document: https://freshwaterwatch.thewaterhub.org/sites/default/files/health-and-safety-manual.pdf
+ 
+FWW site selection info: https://freshwaterwatch.thewaterhub.org/content/where-test
+ 
+FWW data upload instructions: https://freshwaterwatch.thewaterhub.org/content/uploading-results
+ 
+FWW Geoserver URL for earthwatch is: https://geo.earthwatch.org.uk/
 
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
