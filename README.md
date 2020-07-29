@@ -1,3 +1,12 @@
+# What is Monocle?
+
+Funded by EU H2020 MONOCLE brings together 12 partners from across Europe to create sustainable in situ observation solutions for Earth Observation (EO) of optical water quality in inland and transitional waters.
+
+Here you will find software and documentation for our low cost sensor packages. 
+
+
+
+
 # MONOCLE LOW COST SENSOR SUPPORT PACKAGE
 D2.5 Support package for MONOCLE Low Cost Sensors (readme)
 
@@ -85,3 +94,4 @@ FWW Geoserver URL for earthwatch is: https://geo.earthwatch.org.uk/
 
 
 
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 776480
