@@ -1,25 +1,29 @@
+![monocle_logo](https://monocle-h2020.eu/getattachment/Resources/MONOCLE_LOGO_-_Grey_with_text_-_2000px.png)
+
+
+# MONOCLE LOW COST SENSOR SUPPORT PACKAGE
+D2.5 Support package for MONOCLE Low Cost Sensors
+
 # What is Monocle?
 
 Funded by EU H2020 MONOCLE brings together 12 partners from across Europe to create sustainable in situ observation solutions for Earth Observation (EO) of optical water quality in inland and transitional waters.
 
-Here you will find software and documentation for our low cost sensor packages. 
+
+# About this repository
 
 
+Here you will find software and documentation for our low cost sensors (iSPEX, kDUINO, Fresh Water Watch)
 
-
-# MONOCLE LOW COST SENSOR SUPPORT PACKAGE
-D2.5 Support package for MONOCLE Low Cost Sensors (readme)
 
 ## Introduction
 This readme acts as a reference for the Low Cost Sensor support software and / or documentation. Both software and documentation are still into development, so
-the contents of this file can and will change
+the contents of this file can and will change.
 
 
 ## SPECTACLE / iSPEX
 
 ### General description
-
-
+The spectacle app, scripts and back end are used for smartphone camera calibrations and captures RAW image sensor data along with positional data. The software (both iOS and Android) is a starting point for building the iSPEX (a smartphone spectropolarimater) app.
 
 
 ### Repositories
@@ -34,7 +38,7 @@ SPECTACLE Repository (Python)
 https://github.com/monocle-h2020/camera_calibration
 
 SPECTACLE App
-Decription
+### Decription
 iOS and Android calibration apps (xcode and android studio development resources). 
 
 
@@ -57,6 +61,10 @@ https://github.com/monocle-h2020/spectacle_db
 
 
 ## KDUINO/KSTICK
+
+
+
+
 
 - KduPro code
 https://github.com/Carlos-Rodero/KdUINO_Feather?organization=Carlos-Rodero&organization=Carlos-Rodero
