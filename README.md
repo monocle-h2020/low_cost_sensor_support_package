@@ -1,4 +1,4 @@
-![monocle_logo](https://monocle-h2020.eu/getattachment/Resources/MONOCLE_LOGO_-_Grey_with_text_-_2000px.png)
+![monocle_logo](https://avatars1.githubusercontent.com/u/36449994?s=200&v=4)
 
 
 # MONOCLE LOW COST SENSOR SUPPORT PACKAGE
