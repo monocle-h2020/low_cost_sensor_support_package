@@ -4,6 +4,7 @@
 # MONOCLE LOW COST SENSOR SUPPORT PACKAGE
 D2.5 Support package for MONOCLE Low Cost Sensors
 
+
 # What is Monocle?
 
 Funded by EU H2020 MONOCLE brings together 12 partners from across Europe to create sustainable in situ observation solutions for Earth Observation (EO) of optical water quality in inland and transitional waters.
@@ -11,13 +12,17 @@ Funded by EU H2020 MONOCLE brings together 12 partners from across Europe to cre
 
 # About this repository
 
-
 Here you will find software and documentation for our low cost sensors (iSPEX, kDUINO, Fresh Water Watch)
 
 
 ## Introduction
 This readme acts as a reference for the Low Cost Sensor support software and / or documentation. Both software and documentation are still into development, so
-the contents of this file can and will change.
+the contents of this file/wiki can and will change over time
+
+## Audience
+Low cost sensor users, (app) developers, MONOCLE Partners, people who are lookikng for low cost sensor integration solutions.
+
+
 
 
 ## SPECTACLE / iSPEX
