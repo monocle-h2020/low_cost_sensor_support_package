@@ -55,8 +55,6 @@ SPECTACLE/iSPEX Back end database dump
 https://github.com/monocle-h2020/spectacle_db
 
 
-### Support scripts 
-
 
 ## KDUINO/KSTICK
 
