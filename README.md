@@ -38,10 +38,8 @@ SPECTACLE Repository (Python)
 https://github.com/monocle-h2020/camera_calibration
 
 SPECTACLE App
-### Decription
+### Description
 iOS and Android calibration apps (xcode and android studio development resources). 
-
-
 
 IOS
 https://github.com/monocle-h2020/spectacle_ios
@@ -62,8 +60,9 @@ https://github.com/monocle-h2020/spectacle_db
 
 ## KDUINO/KSTICK
 
+### Description
 
-
+The KdUINO is a low-cost moored system that measures downwelling irradiance at different depths with Kd as an output parameter (more information here: http://www.citclops.eu/transparency/measuring-water-transparency)
 
 
 - KduPro code
@@ -74,6 +73,9 @@ https://git.csic.es/36579996Z/kduino-data-analysis
 
 
 ## DRONES
+
+### Description
+The MONOCLE project uses drones with different devices attached to perform measurements above the water. 
 
 https://www.dji.com/nl/ground-station-pro
 
@@ -86,6 +88,11 @@ https://sm-projects-monocle.azurewebsites.net/
 
 ## FRESH WATER WATCH
 
+FreshWater Watch is a global project which enables individuals and communities to monitor, protect and restore their local water resources.
+
+FreshWater Watch trains people around the world to collect water and analyse water samples from local rivers, lakes, and other bodies of fresh water. The resulting data provides the evidence needed to support efforts aimed at improving water quality.
+
+FreshWater Watch was launched in 2012 as part of the HSBC Water Programme. Since then, Earthwatch has expanded this flagship project to reach volunteers, research organisations, and schools across the world. (https://earthwatch.org.uk/get-involved/freshwater-watch)
 
 
 
@@ -109,4 +116,4 @@ This project has received funding from the European Union’s Horizon 2020 resea
 
 # LICENSE
 
-
+All reference repositories should contain a license.md
