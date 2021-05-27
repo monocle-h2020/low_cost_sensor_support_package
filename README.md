@@ -104,15 +104,16 @@ FWW methods document: https://freshwaterwatch.thewaterhub.org/sites/default/file
  
 FWW health and safety document: https://freshwaterwatch.thewaterhub.org/sites/default/files/health-and-safety-manual.pdf
  
-FWW site selection info: https://freshwaterwatch.thewaterhub.org/content/where-test
- 
-FWW data upload instructions: https://freshwaterwatch.thewaterhub.org/content/uploading-results
+FWW site selection info: https://freshwaterwatch.thewaterhub.org/content/freshwater-watch-how-guide
+
+
+FWW data upload instructions:  https://freshwaterwatch.thewaterhub.org/about/faq
  
 FWW Geoserver URL for earthwatch is: https://geo.earthwatch.org.uk/
 
 # FUNDING
 
-![EU_logo](https://ec.europa.eu/easme/sites/easme-site/files/euflag.png)
+![EU_logo](https://europa.eu/european-union/sites/default/files/docs/body/flag_yellow_low.jpg)
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 776480
 
